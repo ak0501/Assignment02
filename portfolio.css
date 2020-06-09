@@ -5,8 +5,10 @@ body {
 @media (max-width: 640px) {
     .nav-item {
 
-        font-size: large;
-
+        font-size: small;
+        padding-left: 10px;
+        .navbar {
+            margin: 0;
+            padding: 0;
+        }
     }
-
-}
