@@ -1,0 +1,12 @@
+body {
+    background-image: url(double-bubble-outline.png);
+}
+
+@media (max-width: 640px) {
+    .nav-item {
+
+        font-size: large;
+
+    }
+
+}
